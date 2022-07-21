@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725036368708",
+    "project_id": "logincrud-flutter",
+    "storage_bucket": "logincrud-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725036368708:android:7da97528f0524f31280d11",
+        "android_client_info": {
+          "package_name": "pe.edu.upeu.app_vmupeux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725036368708-l8nh7kuo19mgjqoe3mkjbirsllnujn65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.upeu.app_vmupeux",
+            "certificate_hash": "b2fc22d1809c4df75ff0efc93ba4848af2543a2b"
+          }
+        },
+        {
+          "client_id": "725036368708-amprk2a1ek9m488bmba9a0gdtgm2e7cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgO4G8d1w_mGQKc-xSwsf5Y2j58VFgtJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725036368708-amprk2a1ek9m488bmba9a0gdtgm2e7cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
